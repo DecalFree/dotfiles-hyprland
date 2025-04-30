@@ -5,5 +5,5 @@ Applications I use:
 - waybar (Topbar)
 - kitty (Terminal)
 - walker (Application Launcher)
-- hyprpaper (Wallpapers)
+- hyprpaper (Wallpaper Utility)
 - firefox (Default Browser)
