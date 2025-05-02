@@ -6,4 +6,5 @@ Applications I use:
 - kitty (Terminal)
 - walker (Application Launcher)
 - hyprpaper (Wallpaper Utility)
+- hyprsome (Workspace Utility)
 - firefox (Default Browser)
