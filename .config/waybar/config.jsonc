@@ -1,0 +1,38 @@
+// -*- mode: jsonc -*-
+{
+    "height": 30, 
+    "spacing": -10, 
+    "modules-left": [
+	"hyprland/workspaces"
+    ],
+    "modules-center": [
+        "hyprland/window"
+    ],
+    "modules-right": [
+        "cpu",
+        "memory",
+	"pulseaudio",
+        "clock",
+	"tray"
+    ],
+    "tray": {
+	 "spacing": 10
+    },
+    "clock": {
+        "timezone": "Etc/GMT-5",
+	"format": "[{:%m/%d/%Y  %H:%M}]",
+	"tooltip": false
+    },
+    "cpu": {
+        "format": "[CPU:  {usage}%]",
+        "tooltip": false
+    },
+    "memory": {
+        "format": "[Mem:  {}%]",
+	"tooltip": false
+    },
+    "pulseaudio": {
+	"format": "[Vol: {volume}%]",
+	"tooltip": false
+    }
+}
