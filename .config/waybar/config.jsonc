@@ -19,7 +19,6 @@
 	 "spacing": 10
     },
     "clock": {
-        "timezone": "Etc/GMT-5",
 	"format": "[{:%m/%d/%Y  %H:%M}]",
 	"tooltip": false
     },
