@@ -3,7 +3,8 @@
     "height": 30, 
     "spacing": -10, 
     "modules-left": [
-	"hyprland/workspaces"
+	"hyprland/workspaces",
+	"custom/media"
     ],
     "modules-center": [
         "hyprland/window"
@@ -15,6 +16,13 @@
         "clock",
 	"tray"
     ],
+    "hyprland/workspaces": {
+	 "active-only": false,
+	 "all-outputs": false,
+	 "persistent-workspaces": {
+	     "DP-1": 9
+	 }
+    },
     "tray": {
 	 "spacing": 10
     },
@@ -33,5 +41,12 @@
     "pulseaudio": {
 	"format": "[Vol: {volume}%]",
 	"tooltip": false
+    },
+    "custom/media": {
+        "format": "[{text}]",
+        "return-type": "json",
+        "max-length": 100,
+        "escape": true,
+        "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null" 
     }
 }
