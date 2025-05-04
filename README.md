@@ -4,7 +4,8 @@ Personal use dotfiles for Hyprland, some dotfiles require a specified applicatio
 Applications I use:
 - waybar (Topbar)
 - kitty (Terminal)
-- walker (Application Launcher)
+- wofi (Application Launcher)
+- cliphist (Clipboard Manager)
 - hyprpaper (Wallpaper Utility)
-- hyprsome (Workspace Utility)
+- hyprsome (Workspace Management)
 - firefox (Default Browser)
