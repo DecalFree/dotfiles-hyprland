@@ -8,4 +8,5 @@ Applications I use:
 - cliphist (Clipboard Manager)
 - hyprpaper (Wallpaper Utility)
 - hyprsome (Workspace Management)
+- hyprpolkitagent (Authentication Daemon)
 - firefox (Default Browser)
