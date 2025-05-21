@@ -9,4 +9,5 @@ Applications I use:
 - hyprpaper (Wallpaper Utility)
 - hyprsome (Workspace Management)
 - hyprpolkitagent (Authentication Daemon)
+- dunst (Notification Daemon)
 - firefox (Default Browser)
