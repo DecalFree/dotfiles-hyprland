@@ -7,7 +7,6 @@ Applications I use:
 - wofi (Application Launcher)
 - cliphist (Clipboard Manager)
 - hyprpaper (Wallpaper Utility)
-- hyprsome (Workspace Management)
 - hyprpolkitagent (Authentication Daemon)
 - dunst (Notification Daemon)
 - firefox (Default Browser)
