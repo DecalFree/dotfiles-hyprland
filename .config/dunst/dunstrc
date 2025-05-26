@@ -2,6 +2,7 @@
     ### Display ###
 
     monitor = DP-1
+    
     follow = none
 
     ### Geometry ###
