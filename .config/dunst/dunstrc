@@ -146,7 +146,7 @@
 
 [urgency_low]
     background = "#222222"
-    foreground = "#444444"
+    foreground = "#888888"
     timeout = 10
 
     default_icon = dialog-information
