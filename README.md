@@ -1,12 +1,6 @@
-# dotfiles-hyprland
-Personal use dotfiles for Hyprland, some dotfiles require a specified application.
+# dotfiles
+Personal use dotfiles for i3 and Hyprland; i3 for my Laptop and Hyprland for my desktop.
 
-Applications I use:
-- waybar (Topbar)
-- alacritty (Terminal)
-- wofi (Application Launcher)
-- cliphist (Clipboard Manager)
-- hyprpaper (Wallpaper Utility)
-- hyprpolkitagent (Authentication Daemon)
-- dunst (Notification Daemon)
-- firefox (Default Browser)
+Laptop (i3) dotfiles: https://github.com/DecalFree/dotfiles/tree/main/i3
+
+Desktop (Hyprland) dotfiles: https://github.com/DecalFree/dotfiles/tree/main/hyprland
